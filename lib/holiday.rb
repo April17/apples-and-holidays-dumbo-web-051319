@@ -89,5 +89,5 @@ def all_holidays_with_bbq(holiday_hash)
       holidayAry << holidays
     end
   end
-  return holidayArt
+  return holidayAry
 end
